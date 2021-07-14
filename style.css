@@ -162,6 +162,9 @@ nav{
     grid-template-columns: repeat(4,1fr);
     grid-gap: 20px;
 }
+.social-media a{
+    text-decoration: none;
+}
 .copyright p{
     font-size: 28px;
 }
@@ -235,6 +238,7 @@ nav{
         height: 60px;
         padding-bottom: 30px;
     }
+    
     .copyright p{
         font-size: 18px;
     }
